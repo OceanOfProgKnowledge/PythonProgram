@@ -16,7 +16,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: rakeshp
+    runs-on: RAKESHP
     #ubuntu-latest
 
     steps:
