@@ -16,7 +16,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: RAKESHP
+    runs-on: self-hosted
     #ubuntu-latest
 
     steps:
